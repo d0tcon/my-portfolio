@@ -7,7 +7,7 @@
 Este é meu portfolio, contruido com linguagem de progamação. Ele contem todas as minhas informações profissionais.
 
 ## Layout mobile
-![Mobile 1](https://github.com/d0tcon/images/blob/main/mobile%20port.png)
+![Mobile 1](https://github.com/d0tcon/images/blob/main/mobile%20port.png) ![Mobile 2](https://github.com/d0tcon/images/blob/main/mobile%20port%202.png)
 
 ## Layout web
 ![Web 1](https://github.com/d0tcon/images/blob/main/desk%20port.png)
